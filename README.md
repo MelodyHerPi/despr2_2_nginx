@@ -15,4 +15,5 @@
     - Arrancar vm y actualización de paquetes
     ![update y upgrade](image-4.png)
     - Intalación Nginx
-    
+    ![instalacion nginx](image-5.png)
+    -
